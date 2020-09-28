@@ -1,5 +1,5 @@
 #
-# makefile for color utilities C library
+# makefile for color utilities C library 
 # assumes cmocka (a unit testing framework) is installed on your
 # system 
 #
